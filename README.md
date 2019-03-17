@@ -1,2 +1,2 @@
 # product-rating
-a nodejs with react website 
+a nodejs with react website. it is still in its early beggings
